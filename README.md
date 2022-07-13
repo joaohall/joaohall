@@ -10,3 +10,4 @@ Hi! I'm João Eduardo,
 - Mobile application development using **React Native, Flutter**
 - Front-end development using **React, HTML, JavaScript, CSS, Vue.js**
 - Backend development using **Next.js, ExpressJS, Spring**
+- Machine learning development using **NumPy, PyTorch, Matplotlib**
