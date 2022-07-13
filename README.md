@@ -6,7 +6,7 @@ Hi! I'm João Eduardo,
  
  
 ##  Some of my technologies💻
-- Desktop application development using **JavaFX, QT
+- Desktop application development using **JavaFX, QT**
 - Mobile application development using **React Native, Flutter**
-- Front-end development using **React, HTML, JavaScript, CSS, Vue.js
-- Backend development using **Next.js, ExpressJS, Spring
+- Front-end development using **React, HTML, JavaScript, CSS, Vue.js**
+- Backend development using **Next.js, ExpressJS, Spring**
