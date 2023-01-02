@@ -9,7 +9,7 @@ Hi! I'm João Eduardo,
 - Desktop application development using **JavaFX, QT, OpenGl, DirectX**  🖥️
 - Mobile application development using **React Native, Flutter**  📱
 - Front-end development using **React, HTML, JavaScript, CSS, Vue.js** 🌐
-- Backend development using **Next.js, ExpressJS, Spring** 🌐
+- Backend development using **Next.js, ExpressJS, Spring, nodeJS** 🌐
 - Machine learning development using **NumPy, PyTorch, Matplotlib** 🤖
 
 ## Awards and medals 🥇
