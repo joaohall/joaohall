@@ -7,10 +7,10 @@ Hi! I'm João Eduardo,
  
 ##  Some of my technologies 💻
 - Java, C++, Python, Javascript and Flutter learner
-- Desktop application development using **JavaFX, QT, OpenGl, DirectX**  🖥️
+- Desktop application development using **JavaFX, QT, OpenGl, .NET**  🖥️
 - Mobile application development using **React Native, Flutter**  📱
 - Front-end development using **React, HTML, JavaScript, CSS, Vue.js** 🌐
-- Backend development using **Next.js, ExpressJS, Spring, nodeJS** 🌐
+- Backend development using **ExpressJS, Spring, nodeJS** 🌐
 - Machine learning development using **NumPy, PyTorch, Matplotlib and scikit-learn** 🤖
 
 ## Awards and medals 🥇
