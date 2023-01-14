@@ -1,3 +1,5 @@
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=header"/>
+
  ## Hi, i'm João Eduardo!
 <img src=https://user-images.githubusercontent.com/84324155/178652391-ccffed7b-ca50-431c-9d0f-85c4a5e38035.gif width=400 align="right">
 Hi! I'm João Eduardo,
