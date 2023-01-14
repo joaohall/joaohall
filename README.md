@@ -1,7 +1,5 @@
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000080&height=120&section=header"/>
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00008f&height=120&section=header"/>
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello!,+my+name+is+João Eduardo+Hall;I'm+17+years+old;I+from+Brasil,+DF;I+study+linear+algebra+at+IFB;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
 <img src=https://user-images.githubusercontent.com/84324155/178652391-ccffed7b-ca50-431c-9d0f-85c4a5e38035.gif width=400 align="right">
 Hi! I'm João Eduardo,
  a mobile, desktop and fullstack developer. I'm currently taking the computer course at IFB! I'm always looking for new knowledge.
