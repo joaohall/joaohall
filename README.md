@@ -5,9 +5,13 @@
 </div>
  
  ### Main skills:
-![My Skills](https://skillicons.dev/icons?i=js,html,css,java,cpp,react,expressjs)
-<br/>
-![My Skills](https://skillicons.dev/icons?i=spring,nodejs,figma,python,firebase,netlify,django,redux)
+ <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,java,cpp,react,expressjs" />
+    <img src="https://skillicons.dev/icons?i=spring,nodejs,figma,python,firebase,netlify,django,redux" />
+  </a>
+</p>
+
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
