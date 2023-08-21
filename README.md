@@ -13,10 +13,9 @@
  </div>
  
  ### Main skills:
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Php](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&logoColor=purple&labelColor=0D1117)&nbsp; 
+![My Skills](https://skillicons.dev/icons?i=js,html,css,java,cpp,react,expressjs)](https://skillicons.dev)
+<br/>
+![My Skills](https://skillicons.dev/icons?i=spring,nodejs,figma,python,firebase,netlify,django,redux)](https://skillicons.dev)
 
 
 ### Studying in this moment:
@@ -33,7 +32,4 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
 # My Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,cpp,react,expressjs)](https://skillicons.dev)
-<br/>
-[![My Skills](https://skillicons.dev/icons?i=spring,nodejs,figma,python,firebase,netlify,django,redux)](https://skillicons.dev)
 
