@@ -7,12 +7,6 @@ Hi! I'm João Eduardo,
  
 
 # My Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,cpp,react,expressjs,spring,node)](https://skillicons.dev)
-- Java, C++, Python, Javascript and Flutter learner
-- Desktop application development using **JavaFX, QT, OpenGl, .NET**  🖥️
-- Mobile application development using **React Native, Flutter**  📱
-- Front-end development using **React, HTML, JavaScript, CSS, Vue.js** 🌐
-- Backend development using **ExpressJS, Spring, nodeJS, Spark** 🌐
-- Machine learning development using **NumPy, PyTorch, Matplotlib and scikit-learn** 🤖
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,cpp,react,expressjs,spring,node,figma,python,firebase,netlify,django,redux)](https://skillicons.dev)
 
 ## Awards and medals 
