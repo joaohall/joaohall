@@ -13,9 +13,9 @@
  </div>
  
  ### Main skills:
-![My Skills](https://skillicons.dev/icons?i=js,html,css,java,cpp,react,expressjs)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,java,cpp,react,expressjs)
 <br/>
-![My Skills](https://skillicons.dev/icons?i=spring,nodejs,figma,python,firebase,netlify,django,redux)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=spring,nodejs,figma,python,firebase,netlify,django,redux)
 
 
 ### Studying in this moment:
