@@ -6,7 +6,7 @@ Hi! I'm João Eduardo,
  I'm a high school student, currently studying linear algebra for computing, 3D animation and AI development.
  
  
-##  Some of my technologies 💻
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 - Java, C++, Python, Javascript and Flutter learner
 - Desktop application development using **JavaFX, QT, OpenGl, .NET**  🖥️
 - Mobile application development using **React Native, Flutter**  📱
@@ -14,4 +14,4 @@ Hi! I'm João Eduardo,
 - Backend development using **ExpressJS, Spring, nodeJS, Spark** 🌐
 - Machine learning development using **NumPy, PyTorch, Matplotlib and scikit-learn** 🤖
 
-## Awards and medals 🥇
+## Awards and medals 
