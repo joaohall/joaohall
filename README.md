@@ -1,6 +1,6 @@
-<a href="https://git.io/typing-svg" align="center">
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hi!+I'm+Jo%C3%A3o+Eduardo.;I'm+a++fullstack+developer;Taking+course+at+IFB+" alt="Typing SVG" />
-</a>
+</div>
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=joaohall&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="CJo  João Hall github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaohall&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
