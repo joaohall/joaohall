@@ -4,7 +4,7 @@ Hi! I'm João Eduardo,
  I'm a high school student, currently studying linear algebra for computing, 3D animation and AI development.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 # My Skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,cpp,react,expressjs)](https://skillicons.dev)
 <br/>
