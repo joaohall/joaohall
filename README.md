@@ -7,6 +7,6 @@ Hi! I'm João Eduardo,
  
 
 # My Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,cpp,react,expressjs,spring,node,figma,python,firebase,netlify,django,redux)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,cpp,react,expressjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,nodejs,figma,python,firebase,netlify,django,redux)](https://skillicons.dev)
 ## Awards and medals 
